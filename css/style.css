@@ -10,10 +10,10 @@ body{
 .container{
 width:80%;
 margin:auto;
-overflow: hidden;
+overflow: hidden; 
 }
 #branding{
-    margin-left: 19px;
+    margin-left: 20px;
 }
 
 ul{
@@ -67,6 +67,7 @@ color:rgb(0, 0, 0);
 }
 #newsletter h1{
     float: right;
+    margin-top: 33px;
 }
 #newsletter form{
     float: left;
