@@ -12,15 +12,28 @@ width:80%;
 margin:auto;
 overflow: hidden; 
 }
+
+.container.position-relative{
+width:80%;
+margin:auto;
+overflow: hidden; 
+display: inline-flex;
+}
+
 #branding{
     margin-left: 20px;
+    margin-bottom: 0;
 }
+
 
 ul{
-    margin: 0;
+    margin-left: 50px;
     padding-left:0px;
+    margin-top: 40px;
 
 }
+
+
 header{
 background: rgb(252, 252, 252);
 color: rgb(0, 0, 0);
@@ -37,6 +50,9 @@ header li{
     display:inline;
     padding: 0 20px 0 20px;
 }
+
+
+
 
 
 header a:hover{
